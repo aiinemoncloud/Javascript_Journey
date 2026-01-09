@@ -1,6 +1,6 @@
 # Frontend Engineering Roadmap 
 
-This repository serves as a documented journey of my transition from SRE and Cloud Infrastructure into Full-Stack Development. I am applying my engineering principles—scalability, reliability, and clean documentation—to the modern web stack.
+This repository serves as a documented journey of my transition from SRE and Cloud Infrastructure into Full-Stack Development. I am applying my engineering principles: scalability, reliability, and clean documentation to the modern web stack.
 
 ## Today I Learned (TIL)
 
